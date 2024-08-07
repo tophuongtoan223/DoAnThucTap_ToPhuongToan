@@ -1,0 +1,2 @@
+Bước 1: vào file cài đặt Cick đôi vào tập tin SetupData.bat để cài đặt CSDL
+Bước 2: Mở thư mục release, click đôi vào QuanlyTraSuaTeamo.exe để cái ứng dụng
